@@ -1,0 +1,27 @@
+Receptenbot
+
+Receptenbot is een chatbot die op basis van verschillende internationale keukens creatieve recepten bedenkt. De chatbot is geïntegreerd in een React-applicatie en gebruikt OpenAI voor het genereren van antwoorden.
+
+Installatie
+Clone deze repository.
+
+Installeer de dependencies:
+npm install
+
+Start de applicatie:
+npm run dev
+
+Features
+Stel vragen aan verschillende "chefs" uit internationale keukens.
+
+Dynamische aanpassing van rol en expertise per chef.
+
+Chatgeschiedenis wordt bewaard tijdens het gesprek.
+
+Technologieën
+React
+
+OpenAI API
+
+Contact
+Gemaakt door Irsan.
